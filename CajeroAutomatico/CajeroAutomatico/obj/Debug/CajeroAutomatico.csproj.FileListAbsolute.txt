@@ -1,0 +1,7 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
