@@ -1,0 +1,12 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\bin\Debug\CalcularNotas.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Properties.Resources.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.GenerateResource.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.VistasMaterias.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.PromedioGeneral.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\TareasPOO\CalcularNotas\CalcularNotas\obj\Debug\CalcularNotas.Vistas.VistasDatos.resources
