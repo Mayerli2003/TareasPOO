@@ -1,0 +1,10 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\bin\Debug\IndiceMasaCorporal.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\bin\Debug\IndiceMasaCorporal.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\bin\Debug\IndiceMasaCorporal.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\obj\Debug\IndiceMasaCorporal.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\obj\Debug\IndiceMasaCorporal.Form1.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\obj\Debug\IndiceMasaCorporal.Properties.Resources.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\obj\Debug\IndiceMasaCorporal.csproj.GenerateResource.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\obj\Debug\IndiceMasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\obj\Debug\IndiceMasaCorporal.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\IndiceMasaCorporal\IndiceMasaCorporal\obj\Debug\IndiceMasaCorporal.pdb

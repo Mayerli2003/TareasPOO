@@ -24,12 +24,12 @@ namespace CalcularNotas.Vistas
         {
             Notas notas = new Notas();
             ClsNotas clsNotas = new ClsNotas();
-            notas.Laboratorio1 = Convert.ToDouble(Laboratorio1.Text);
-            notas.Laboratorio2 = Convert.ToDouble(Laboratorio2.Text);
-            notas.Laboratorio3 = Convert.ToDouble(Laboratorio3.Text);
-            notas.Parcial1 = Convert.ToDouble(Parcial1.Text);
-            notas.Parcial2 = Convert.ToDouble(Parcial2.Text);
-            notas.Parcial3 = Convert.ToDouble(Parcial3.Text);
+            notas.Laboratorio1 = double.Parse(Laboratorio1.Text);
+            notas.Laboratorio2 = double.Parse(Laboratorio2.Text);
+            notas.Laboratorio3 = double.Parse(Laboratorio3.Text);
+            notas.Parcial1 = double.Parse(Parcial1.Text);
+            notas.Parcial2 = double.Parse(Parcial2.Text);
+            notas.Parcial3 = double.Parse(Parcial3.Text);
             String promedio = clsNotas.PromedioIndividual(notas);
             String comentario = clsNotas.mostrarnotas(notas);
             MessageBox.Show(promedio+
