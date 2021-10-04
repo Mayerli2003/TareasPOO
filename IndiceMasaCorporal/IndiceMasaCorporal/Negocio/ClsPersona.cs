@@ -16,22 +16,22 @@ namespace IndiceMasaCorporal.Negocio
             
             if (resultado < 18.5)
             {
-                return "Hola " + persona.Nombre + " su IMC es de:" + resultado +
+                return "Hola " + persona.Nombre + " su IMC es de: " + resultado.ToString("00.00") +
                     "\nSu peso esta bajo";
             }
             if (resultado > 18.5 & resultado < 24.9)
             {
-                return "Hola " + persona.Nombre + " su IMC es de:" + resultado +
+                return "Hola " + persona.Nombre + " su IMC es de: " + resultado.ToString("00.00") +
                     "\nSu peso es el ideal";
             }
             if (resultado > 24.9 & resultado < 30)
             {
-                return "Hola " + persona.Nombre + " su IMC es de:" + resultado +
+                return "Hola " + persona.Nombre + " su IMC es de: " + resultado.ToString("00.00") +
                     "\nTiene sobrepeso";
             }
             else
             {
-                return "Hola " + persona.Nombre + " su IMC es de:" + resultado +
+                return "Hola " + persona.Nombre + " su IMC es de: " + resultado.ToString("00.00") +
                     "\nTiene obesidad";
             }
         }

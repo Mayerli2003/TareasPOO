@@ -31,7 +31,7 @@ namespace IndiceMasaCorporal
             String tostring = clsPersona.ToString(persona);
             MessageBox.Show(tostring);
             String edadmayor = clsPersona.esMayorDeEdad(persona);
-            MessageBox.Show(edadmayor);
+            MessageBox.Show( edadmayor);
             String IMC = clsPersona.CalculoIMC(persona);
             MessageBox.Show(IMC);
 

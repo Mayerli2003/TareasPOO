@@ -1,5 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -26,13 +26,13 @@ namespace CalcularNotas.Negocio
             double promedio;
             promedio = ((notas.Laboratorio1 + notas.Laboratorio2 + notas.Laboratorio3) / 3 * 0.40) + ((notas.Parcial1 + notas.Parcial2 + notas.Parcial3) / 3 * 0.60);
 
-             return " El promedio de la materia es de:   " + promedio;
+             return " El promedio de la materia es de:   " + promedio.ToString("00.00");
         }
         public string NotaGeneral(Notas promedioMaterias)
         {
             double respuesta;
             respuesta = ((promedioMaterias.BaseDatos + promedioMaterias.Matemática + promedioMaterias.POO + promedioMaterias.Psicología + promedioMaterias.SoftwareUtilitario)/5);
-            return "El promedio general es de: " + respuesta;
+            return "El promedio general es de: " + respuesta.ToString("00.00");
         }
 
         
