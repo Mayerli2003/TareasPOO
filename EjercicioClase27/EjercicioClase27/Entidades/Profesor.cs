@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioClase27.Entidades
 {
-    class Profesor
+    class Profesor:Persona
     {
         private string titulo;
         private string designacion;

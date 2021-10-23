@@ -1,0 +1,15 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.Form1.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.Properties.Resources.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.GenerateResource.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\bin\Debug\Estudiante.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\bin\Debug\Estudiante.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\bin\Debug\Estudiante.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\bin\Debug\EntityFramework.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\bin\Debug\EntityFramework.xml
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.csproj.CopyComplete
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\TareasPOO\Estudiante\Estudiante\obj\Debug\Estudiante.pdb

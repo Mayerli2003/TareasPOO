@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioClase27.Entidades
 {
-    class Estudiante
+    class Estudiante:Persona
     {
         private string carrera;
         private int NumMatricula;

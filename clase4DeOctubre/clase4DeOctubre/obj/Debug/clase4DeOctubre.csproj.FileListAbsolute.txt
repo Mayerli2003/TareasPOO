@@ -1,0 +1,10 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\bin\Debug\clase4DeOctubre.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\bin\Debug\clase4DeOctubre.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\bin\Debug\clase4DeOctubre.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\obj\Debug\clase4DeOctubre.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\obj\Debug\clase4DeOctubre.Form1.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\obj\Debug\clase4DeOctubre.Properties.Resources.resources
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\obj\Debug\clase4DeOctubre.csproj.GenerateResource.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\obj\Debug\clase4DeOctubre.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\obj\Debug\clase4DeOctubre.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\clase4DeOctubre\clase4DeOctubre\obj\Debug\clase4DeOctubre.pdb
